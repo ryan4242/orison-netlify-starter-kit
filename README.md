@@ -1,6 +1,6 @@
 # OrisonJS Netlify Starter Kit
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/megazear7/orison-netlify-starter-kit)
+[https://nostalgic-goldberg-6eebf9.netlify.com/](https://nostalgic-goldberg-6eebf9.netlify.com/)
 
 ## Install
 
